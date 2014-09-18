@@ -12,12 +12,12 @@ This repository contains meta data for the TinyHTPC Add-on Pack Installer to fin
 ## How to add to the repository
 1. Create a backup of your current addon configuration saving the folders in this structure:    
 
-    addons
-    >  |_   #### Your addons ####    
+    > addons
+    >>  |_   #### Your addons ####    
 
-    userdata   
-    >  |_   addon_data    
-    >>  |_   #### Your addon settings ####      
+    > userdata   
+    >>  |_   addon_data    
+    >>>  |_   #### Your addon settings ####      
 
 2. Create a fork of this repo and add your add-on pack to the file "packs.txt" in this format:
 
