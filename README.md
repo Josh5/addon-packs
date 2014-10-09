@@ -19,7 +19,7 @@ This repository contains meta data for the TinyHTPC Add-on Pack Installer to fin
     >>  |_   addon_data    
     >>>  |_   #### Your addon settings ####      
 
-2. Create a fork of this repo and add your add-on pack to the file "packs.txt" in this format:
+2. Create a fork of this repo and add your add-on pack to the file "links.txt" in this format:
 
     **Name your Add-on Pack:**   
     *name="###"*    

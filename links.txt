@@ -22,7 +22,7 @@ description="Stream your favourite Anime in HD with this Add-on Pack.[CR]
 WARNING: Some add-ons contain content that may not be legal in your country! TinyHTPC accepts no responsibility for what you do with them."
 type="main"
 
-name="LINUX"
+name="Hub Wizzard - Linux"
 url="http://www.mediafire.com/download/rwzvlz9v1na2hs2/XBMC.zip"
 img="http://tribeca.tvaddons.ag/tools/wizard/thumbs/linux.jpg"
 fanart="http://tribeca.tvaddons.ag/tools/wizard/thumbs/fanart.jpg"
