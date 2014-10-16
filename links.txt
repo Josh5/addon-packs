@@ -5,6 +5,7 @@ fanart="https://raw.githubusercontent.com/Josh5/addon-packs/master/packs/streami
 description="This Package contains various add-ons for streaming media content from the internet.[CR]
 WARNING: Some add-ons contain content that may not be legal in your country! TinyHTPC accepts no responsibility for what you do with them."
 type="main"
+skinset="none"
 
 name="Torrents - SB CP HP"
 url="https://www.dropbox.com/s/k9q0u0rbaaokki7/Bit-Torrent.zip?dl=1"
@@ -13,6 +14,43 @@ fanart="https://raw.githubusercontent.com/Josh5/addon-packs/master/packs/Bit-Tor
 description="Torrent related add-ons setup for automatic downloading of Movies, TV Shows and Music.[CR]
 WARNING: Some add-ons contain content that may not be legal in your country! TinyHTPC accepts no responsibility for what you do with them."
 type="main"
+skinset="none"
+
+name="LiveTV"
+url="https://www.dropbox.com/s/8ltwoxj4f4mt3eu/LiveTV.zip?dl=1"
+img="https://raw.githubusercontent.com/Josh5/addon-packs/master/packs/LiveTV/icon.png"
+fanart="https://raw.githubusercontent.com/Josh5/addon-packs/master/packs/LiveTV/fanart.jpg"
+description="Watch Live TV streams with a built in, easy to use EPG.[CR]
+WARNING: Some add-ons contain content that may not be legal in your country! TinyHTPC accepts no responsibility for what you do with them."
+type="main"
+skinset="none"
+
+name="Sports Streaming"
+url="https://www.dropbox.com/s/njmcsemxz8aq9z7/Sports-Streaming.zip?dl=1"
+img="https://raw.githubusercontent.com/Josh5/addon-packs/master/packs/Sports-Streaming/icon.png"
+fanart="https://raw.githubusercontent.com/Josh5/addon-packs/master/packs/Sports-Streaming/fanart.jpg"
+description="Stream live sports events using SOPCAST and Acestreams.[CR]
+WARNING: Some add-ons contain content that may not be legal in your country! TinyHTPC accepts no responsibility for what you do with them."
+type="main"
+skinset="none"
+
+name="Movie Streaming"
+url="https://www.dropbox.com/s/79gyz5lygq8sn6u/Movie-Streaming.zip?dl=1"
+img="https://raw.githubusercontent.com/Josh5/addon-packs/master/packs/Movie-Streaming/icon.png"
+fanart="https://raw.githubusercontent.com/Josh5/addon-packs/master/packs/Movie-Streaming/fanart.jpg"
+description="HD Movie streaming add-ons.[CR]
+WARNING: Some add-ons contain content that may not be legal in your country! TinyHTPC accepts no responsibility for what you do with them."
+type="main"
+skinset="none"
+
+name="TVShow Streaming"
+url="https://www.dropbox.com/s/pdflchbpq1dkx9v/TVShow-Streaming.zip?dl=1"
+img="https://raw.githubusercontent.com/Josh5/addon-packs/master/packs/TVShow-Streaming/icon.png"
+fanart="https://raw.githubusercontent.com/Josh5/addon-packs/master/packs/LiveTV/fanart.jpg"
+description="Simple TV Show streaming add-ons.[CR]
+WARNING: Some add-ons contain content that may not be legal in your country! TinyHTPC accepts no responsibility for what you do with them."
+type="main"
+skinset="none"
 
 name="Anime Streaming"
 url="https://www.dropbox.com/s/xzeokdw3wcpq3ja/Anime.zip?dl=1"
@@ -21,6 +59,7 @@ fanart="https://raw.githubusercontent.com/Josh5/addon-packs/master/packs/Anime/f
 description="Stream your favourite Anime in HD with this Add-on Pack.[CR]
 WARNING: Some add-ons contain content that may not be legal in your country! TinyHTPC accepts no responsibility for what you do with them."
 type="main"
+skinset="none"
 
 name="Hub Wizzard - Linux"
 url="http://www.mediafire.com/download/rwzvlz9v1na2hs2/XBMC.zip"
@@ -29,12 +68,4 @@ fanart="http://tribeca.tvaddons.ag/tools/wizard/thumbs/fanart.jpg"
 description="Configure Kodi with all the Best Goodies Available in Just One Click!
 WARNING: This tool will overwrite your current settings and does not yet function with OpenELEC devices!"
 type="main"
-
-name="Test - skinset"
-url="http://www.mediafire.com/download/rwzvlz9v1na2hs2/XBMC.zip"
-img="http://tribeca.tvaddons.ag/tools/wizard/thumbs/linux.jpg"
-fanart="http://tribeca.tvaddons.ag/tools/wizard/thumbs/fanart.jpg"
-description="Configure Kodi with all the Best Goodies Available in Just One Click!
-WARNING: This tool will overwrite your current settings and does not yet function with OpenELEC devices!"
-type="main"
-skinset="https://www.dropbox.com/s/52lwfc7w8wqin5n/shortcuts.txt?dl=1"
+skinset="none"

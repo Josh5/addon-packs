@@ -1,0 +1,3 @@
+setbool="AutoScroll,true"
+shortcut="CustomFavourite10.Label,FTV Guide"
+shortcut="CustomFavourite10.Path,RunScript(script.ftvguide)"
