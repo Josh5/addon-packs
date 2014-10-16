@@ -29,3 +29,12 @@ fanart="http://tribeca.tvaddons.ag/tools/wizard/thumbs/fanart.jpg"
 description="Configure Kodi with all the Best Goodies Available in Just One Click!
 WARNING: This tool will overwrite your current settings and does not yet function with OpenELEC devices!"
 type="main"
+
+name="Test - skinset"
+url="http://www.mediafire.com/download/rwzvlz9v1na2hs2/XBMC.zip"
+img="http://tribeca.tvaddons.ag/tools/wizard/thumbs/linux.jpg"
+fanart="http://tribeca.tvaddons.ag/tools/wizard/thumbs/fanart.jpg"
+description="Configure Kodi with all the Best Goodies Available in Just One Click!
+WARNING: This tool will overwrite your current settings and does not yet function with OpenELEC devices!"
+type="main"
+skinset="https://www.dropbox.com/s/52lwfc7w8wqin5n/shortcuts.txt?dl=1"
