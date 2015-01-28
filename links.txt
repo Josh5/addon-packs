@@ -1,3 +1,12 @@
+name="Genesis-Library + FTV Guide"
+url="https://www.dropbox.com/s/14oe0akwpxq2gvx/Genesis-Library%2BFTV.zip?dl=1"
+img="https://raw.githubusercontent.com/Josh5/addon-packs/master/packs/streaming/icon.png"
+fanart="https://raw.githubusercontent.com/Josh5/addon-packs/master/packs/streaming/fanart.jpg"
+description="Integrate video streaming right into your mediacentre's library with the Genesis Add-on.[CR]
+WARNING: Some add-ons contain content that may not be legal in your country! TinyHTPC accepts no responsibility for what you do with them."
+type="main"
+skinset="none"
+
 name="Internet Streaming"
 url="https://www.dropbox.com/s/qrc50xryopnjmpf/streaming.zip?dl=1"
 img="https://raw.githubusercontent.com/Josh5/addon-packs/master/packs/streaming/icon.png"
@@ -36,8 +45,8 @@ skinset="none"
 
 name="Movie Streaming"
 url="https://www.dropbox.com/s/79gyz5lygq8sn6u/Movie-Streaming.zip?dl=1"
-img="https://raw.githubusercontent.com/Josh5/addon-packs/master/packs/Movie-Streaming/icon.png"
-fanart="https://raw.githubusercontent.com/Josh5/addon-packs/master/packs/Movie-Streaming/fanart.jpg"
+img="https://raw.githubusercontent.com/Josh5/addon-packs/master/packs/Genesis-Library+FTV/icon.png"
+fanart="https://raw.githubusercontent.com/Josh5/addon-packs/master/packs/Genesis-Library+FTV/fanart.jpg"
 description="HD Movie streaming add-ons.[CR]
 WARNING: Some add-ons contain content that may not be legal in your country! TinyHTPC accepts no responsibility for what you do with them."
 type="main"
