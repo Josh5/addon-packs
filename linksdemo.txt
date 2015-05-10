@@ -4,9 +4,9 @@ img="https://raw.githubusercontent.com/Josh5/addon-packs/master/packs/Genesis-Li
 fanart="https://raw.githubusercontent.com/Josh5/addon-packs/master/packs/Genesis-Library+FTV/fanart.jpg"
 description="Integrate video streaming right into your mediacentre's library with the Genesis Add-on.[CR]
 WARNING: Some add-ons contain content that may not be legal in your country! TinyHTPC accepts no responsibility for what you do with them."
-type="main"
+type="home"
 skinset="none"
-restart="yes"
+restart="no"
 
 name="testrestart"
 url="https://www.dropbox.com/s/1qdasc5fgln2pnp/Anime-restart.zip?dl=1"
@@ -16,4 +16,14 @@ description="This Package contains various add-ons for streaming media content f
 WARNING: Some add-ons contain content that may not be legal in your country! TinyHTPC accepts no responsibility for what you do with them."
 type="main"
 skinset="none"
-restart="no"
+restart="yes"
+
+name="testrestart2"
+url="https://www.dropbox.com/s/1qdasc5fgln2pnp/Anime-restart.zip?dl=1"
+img="https://raw.githubusercontent.com/Josh5/addon-packs/master/packs/streaming/icon.png"
+fanart="https://raw.githubusercontent.com/Josh5/addon-packs/master/packs/streaming/fanart.jpg"
+description="This Package contains various add-ons for streaming media content from the internet.[CR]
+WARNING: Some add-ons contain content that may not be legal in your country! TinyHTPC accepts no responsibility for what you do with them."
+type="home"
+skinset="none"
+restart="yes"
