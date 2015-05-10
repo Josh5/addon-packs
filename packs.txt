@@ -5,7 +5,7 @@ fanart="https://raw.githubusercontent.com/Josh5/addon-packs/master/packs/Genesis
 description="Integrate video streaming right into your mediacentre's library with the Genesis Add-on.[CR]
 WARNING: Some add-ons contain content that may not be legal in your country! TinyHTPC accepts no responsibility for what you do with them."
 type="main"
-skinset="none"
+skinset="https://raw.githubusercontent.com/Josh5/addon-packs/master/packs/Genesis-Library+FTV/shortcuts.txt"
 restart="yes"
 
 name="Torrents - SB CP HP"

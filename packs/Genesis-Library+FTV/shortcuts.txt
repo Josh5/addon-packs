@@ -1,0 +1,6 @@
+setbool="HomeMenuAnimation,true"
+setbool="ShowLibraryTotals,true"
+setbool="NextAiredEnabled,true"
+setbool="AutoScroll,true"
+setbool="EnableAddonsNotifications,true"
+setbool="EnableWeatherAlertsNotifications,true"
