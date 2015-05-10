@@ -1,5 +1,5 @@
-name="Genesis-Library + FTV Guide"
-url="https://www.dropbox.com/s/14oe0akwpxq2gvx/Genesis-Library%2BFTV.zip?dl=1"
+name="testone"
+url="https://www.dropbox.com/s/9zhg7w0n1h8wh1z/Anime.zip?dl=1"
 img="https://raw.githubusercontent.com/Josh5/addon-packs/master/packs/Genesis-Library+FTV/icon.png"
 fanart="https://raw.githubusercontent.com/Josh5/addon-packs/master/packs/Genesis-Library+FTV/fanart.jpg"
 description="Integrate video streaming right into your mediacentre's library with the Genesis Add-on.[CR]
@@ -8,21 +8,11 @@ type="main"
 skinset="none"
 restart="yes"
 
-name="Internet Streaming"
-url="https://www.dropbox.com/s/qrc50xryopnjmpf/streaming.zip?dl=1"
+name="testrestart"
+url="https://www.dropbox.com/s/1qdasc5fgln2pnp/Anime-restart.zip?dl=1"
 img="https://raw.githubusercontent.com/Josh5/addon-packs/master/packs/streaming/icon.png"
 fanart="https://raw.githubusercontent.com/Josh5/addon-packs/master/packs/streaming/fanart.jpg"
 description="This Package contains various add-ons for streaming media content from the internet.[CR]
-WARNING: Some add-ons contain content that may not be legal in your country! TinyHTPC accepts no responsibility for what you do with them."
-type="main"
-skinset="none"
-restart="no"
-
-name="Torrents - SB CP HP"
-url="https://www.dropbox.com/s/k9q0u0rbaaokki7/Bit-Torrent.zip?dl=1"
-img="https://raw.githubusercontent.com/Josh5/addon-packs/master/packs/Bit-Torrent/icon.png"
-fanart="https://raw.githubusercontent.com/Josh5/addon-packs/master/packs/Bit-Torrent/fanart.jpg"
-description="Torrent related add-ons setup for automatic downloading of Movies, TV Shows and Music.[CR]
 WARNING: Some add-ons contain content that may not be legal in your country! TinyHTPC accepts no responsibility for what you do with them."
 type="main"
 skinset="none"
