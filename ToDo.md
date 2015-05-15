@@ -1,7 +1,8 @@
 THINGS TO DO...
 ==================
 
-* SuperREPO - addon bucket for smaller packs
+* Add more packs
+* Enable sorting of meta into categories
 
 ===================================
-Last updated: 2014-06-04
+Last updated: 2015-05-15

@@ -5,7 +5,7 @@ Meta-data repository for the Add-on Pack Installer
 
 
 ## Introduction
-This repository contains meta data for the TinyHTPC Add-on Pack Installer to find and download pre-packaged / configured Kodi add-ons.
+This repository contains meta data for my TinyHTPC/EmbER Add-on Pack Installer to find and download pre-packaged / configured Kodi add-ons.
 
 
 
@@ -38,8 +38,5 @@ This repository contains meta data for the TinyHTPC Add-on Pack Installer to fin
 
 3. Open a pull request
 
-
-
-Alternately you can just PM me the above details in our [forum](http://tinyhtpc.co.nz/forum/ucp.php?i=pm&mode=compose&u=2)
 
      **Josh.5** - TinyHTPC    
